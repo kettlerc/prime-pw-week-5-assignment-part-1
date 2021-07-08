@@ -1,0 +1,6 @@
+[ ] create object literal with the following parameters:
+firstName, lastName, hasSiblings, shoeCount, and favThreeFoods
+[ ] create and console a variable called fullName
+[ ] log the first and last items of favThreeFoods
+[ ] log shoeCount, update it by adding 1, and log it again
+[ ] add favoriteColor to existing object and log it
