@@ -3,4 +3,4 @@ firstName, lastName, hasSiblings, shoeCount, and favThreeFoods
 [X] create and console a variable called fullName
 [X] log the first and last items of favThreeFoods
 [X] log shoeCount, update it by adding 1, and log it again
-[ ] add favoriteColor to existing object and log it
+[X] add favoriteColor to existing object and log it
